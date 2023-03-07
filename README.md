@@ -17,7 +17,7 @@
 
 ## Brief about Myself:
 
-- 🔭 I’m currently working on [PayTM Clone](https://github.com/navneetkumar22/Paytm_Clone_tailwind)
+- 🔭 I’m currently working on [E_Commerce_Project](https://github.com/navneetkumar22/ecommerce_project)
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://navneet90.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React JS, Node JS**
 
 - 📫 You can reach me at **navneetsinghpanwar90@gmail.com**
 
