@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [E_Commerce_Project](https://github.com/navneetkumar22/ecommerce_project)
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m a certified **Full Stack JavaScript Web Developer**
 
 - 👨‍💻 All of my projects are available at [FindCoder](https://www.findcoder.io/u/navneet90)
 
