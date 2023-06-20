@@ -29,7 +29,7 @@
 
 - 📫 You can reach me at **navneetsinghpanwar90@gmail.com**
 
-- 📄 Know about my experiences on [My Projects](https://navneetkumar.netlify.app)
+- 📄 Know about my work experiences on [Portfolio](https://navneet-kumar.netlify.app)
 
 <br>
 
